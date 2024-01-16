@@ -7,5 +7,10 @@ This app helps users generate randomized passwords depending on their requiremen
 
 <img width="1150" alt="Screenshot 2024-01-15 at 11 14 44 p m" src="https://github.com/m13corona/password-dilemma/assets/152875862/d2a1ef5f-6498-45c2-a9a1-9a3d125f65e3">
 
+## Website
+https://m13corona.github.io/password-dilemma/
+
 ## Sources
 I consulted MDN Webdocs documents and class material to make this code. 
+
+
